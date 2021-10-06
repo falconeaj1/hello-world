@@ -1,4 +1,5 @@
 Adding line 1
 
+changing line 4 to line 3
 
-Adding line 4
+adding line 5
